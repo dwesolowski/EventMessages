@@ -1,5 +1,7 @@
 # EventMessages - Plugin for Bukkit | Spigot
 
+[![Software License](http://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+
 Configure the default server chat / join / leave messages.
 
 #### Supported Versions: 1.13+
