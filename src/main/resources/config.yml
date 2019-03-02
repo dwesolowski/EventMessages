@@ -1,0 +1,13 @@
+# config.yml
+# Multiline is supported!
+# {player_name} - Display the players name
+
+Join: '&8[&a+&8] &7{player_name}'
+Quit: '&8[&c-&8] &7{player_name}'
+
+Message:
+  - '&8&m-----------------------------------------------------'
+  - '&aWelcome to our Private Server.'
+  - '&cCommand help at &b&nhttps://play.dotmycom.com'
+  - '&eEnjoy your stay!'
+  - '&8&m-----------------------------------------------------'

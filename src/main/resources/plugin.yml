@@ -1,0 +1,4 @@
+name: EventMessages
+version: ${version}
+main: com.github.dwesolowski.eventmessages.EventMessages
+api-version: 1.13
